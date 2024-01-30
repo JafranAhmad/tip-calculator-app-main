@@ -35,7 +35,8 @@ To use the tip calculator, you will need to enter the bill amount, then the numb
 
 3: Screenshot while an error occurr
 
-![](./witherror.jpg)
+![witherror](https://github.com/JafranAhmad/tip-calculator-app-main/assets/136591003/163d2474-2abe-4cd3-abf8-4cee6739ddd5)
+
 
 ### Links
 
